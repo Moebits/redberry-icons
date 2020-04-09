@@ -1,0 +1,21 @@
+{
+    "name": "redberry-icons",
+    "displayName": "redberry-icons",
+    "description": "Icon theme for redberry",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconTheme": [
+            {
+                "id": "redberry-icons",
+                "label": "Redberry-Icons",
+                "path": "./icons/redberry-icon-theme.json"
+            }
+        ]
+    }
+}

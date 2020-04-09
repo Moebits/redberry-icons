@@ -1,0 +1,19 @@
+{
+    "iconDefinitions": {
+        "typescript": {
+          "iconPath": "../images/typescript.png"
+        }
+    },
+
+    "fileExtensions": {
+      "ts": "typescript"
+    },
+
+    "languageIds": {
+      "typescript": "typescript"
+    },
+
+    "fileNames": {
+      "f.ts": "typescript"
+    }
+  }
