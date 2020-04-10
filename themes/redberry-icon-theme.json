@@ -1,5 +1,6 @@
 {
     "iconDefinitions": {
+      "gif": {"iconPath": "../icons/gif.png"},
       "matlab": {"iconPath": "../icons/matlab.png"},
       "cpp": {"iconPath": "../icons/cpp.png"},
       "xml": {"iconPath": "../icons/xml.png"},
@@ -142,7 +143,7 @@
       "htm": "html",
       "html": "html",
       "jpeg": "image",
-      "gif": "image",
+      "gif": "gif",
       "bmp": "image",
       "ico": "image",
       "java": "java",
@@ -304,7 +305,7 @@
 
     "fileNames": {
       "package.json": "node",
-      "package-lock.json": "lock",
+      "package-lock.json": "node",
       "webpack.config.js": "webpack",
       "webpack.config.ts": "webpack",
       "webpack.config.cjs": "webpack",
@@ -324,7 +325,26 @@
       "tslint.ts": "tslint",
       "tslint.json": "tslint",
       "robots.txt": "android",
-      "Procfile": "heroku"
+      "procfile": "heroku",
+      "gemfile": "ruby",
+      "gemfile.lock": "ruby",
+      "vscodeignore.json": "vscode",
+      "extensions.json": "vscode",
+      "launch.json": "vscode",
+      "settings.json": "vscode",
+      "tasks.json": "vscode",
+      "gruntfile.js": "grunt",
+      "gruntfile.ts": "grunt",
+      "gruntfile.coffee": "grunt",
+      "gulpfile.js": "gulp",
+      "gulpfile.ts": "gulp",
+      "gulpfile.coffee": "gulp",
+      "gulpfile.babel.js": "gulp",
+      "license": "key",
+      "licence": "key",
+      "license.md": "key",
+      "licence.md": "key",
+      "mocha.opts": "mocha",
     },
     
     "file": "default"
