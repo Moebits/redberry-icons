@@ -1,3 +1,5 @@
-This is the file icon theme for the color theme "Redberry". 
+ This file icon theme mostly extends the default visual studio code icon theme, but uses a pink/blue color scheme.
 
-It mostly extends the default visual studio code icon theme, but makes some of the colors pink.
+Also see the color theme "Redberry".
+
+![Screenshot](images/icons.png)

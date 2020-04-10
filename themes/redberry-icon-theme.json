@@ -323,7 +323,8 @@
       "tslint.js": "tslint",
       "tslint.ts": "tslint",
       "tslint.json": "tslint",
-      "robots.txt": "android"
+      "robots.txt": "android",
+      "Procfile": "heroku"
     },
     
     "file": "default"

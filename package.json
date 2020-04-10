@@ -1,10 +1,8 @@
 {
     "name": "redberry-icons",
-    "displayName": "redberry-icons",
-    "description": "Icon theme for redberry",
-    "scripts": {
-        "fonts": "fontforge -lang=py -script makefont.py"
-    },
+    "displayName": "Redberry Icons",
+    "description": "File icon theme with a pink/blue theme.",
+    "publisher": "Tenpi",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
