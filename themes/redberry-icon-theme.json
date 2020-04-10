@@ -1,5 +1,7 @@
 {
     "iconDefinitions": {
+      "less": {"iconPath": "../icons/less.png"},
+      "sass": {"iconPath": "../icons/sass.png"},
       "gif": {"iconPath": "../icons/gif.png"},
       "matlab": {"iconPath": "../icons/matlab.png"},
       "cpp": {"iconPath": "../icons/cpp.png"},
@@ -274,7 +276,8 @@
       "targets": "config",
       "npmrc": "npm",
       "htmlhintrc": "config",
-      "perl": "perl"
+      "perl": "perl",
+      "scss": "sass"
     },
 
     "languageIds": {
@@ -292,8 +295,8 @@
       "perl": "perl",
       "perl6": "perl",
       "elixir": "elixir",
-      "sass": "css",
-      "less": "css",
+      "sass": "sass",
+      "less": "less",
       "css": "css",
       "docker": "docker",
       "dockerfile": "docker",
