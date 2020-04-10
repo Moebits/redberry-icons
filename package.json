@@ -2,6 +2,9 @@
     "name": "redberry-icons",
     "displayName": "redberry-icons",
     "description": "Icon theme for redberry",
+    "scripts": {
+        "fonts": "fontforge -lang=py -script makefont.py"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
@@ -9,12 +12,21 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/packagegirl.png",
+    "galleryBanner": {
+        "color": "#FF6BBF",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tenpi/redberry-icons"
+    },
     "contributes": {
-        "iconTheme": [
+        "iconThemes": [
             {
                 "id": "redberry-icons",
                 "label": "Redberry-Icons",
-                "path": "./icons/redberry-icon-theme.json"
+                "path": "./themes/redberry-icon-theme.json"
             }
         ]
     }
