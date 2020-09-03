@@ -80,7 +80,7 @@
       "zip": {"iconPath": "../icons/zip.png"},
       "clock": {"iconPath": "../icons/clock.png"},
       "typescript": {"iconPath": "../icons/typescript.png"},
-      "javascript": {"iconPath": "../icons/javascript.png"},
+      "javascript": {"iconPath": "../icons/javascript.png"}
     },
 
     "fileExtensions": {
@@ -207,7 +207,7 @@
       "env.development": "config",
       "env.production": "config",
       "ini": "config",
-      "makefile": "config",
+      "makefile": "makefile",
       "rake": "ruby",
       "rakefile": "ruby",
       "mk": "config",
@@ -348,6 +348,7 @@
       "license.md": "key",
       "licence.md": "key",
       "mocha.opts": "mocha",
+      "makefile": "makefile"
     },
     
     "file": "default"
